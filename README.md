@@ -52,6 +52,6 @@ Contributors names and contact info
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [file](LICENSE.md) for details
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](/LICENSE.md) for details
 
 ## Acknowledgments
