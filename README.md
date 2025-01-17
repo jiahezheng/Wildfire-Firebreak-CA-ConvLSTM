@@ -39,14 +39,11 @@ directory + 'Data/training_data/forest_fer_rand_ig_rand_wind_rand_tilt_4_ptbar_m
 These notebooks are designed to be run on Google Colab. Since most of the code involves deep learning models, using a GPU is highly recommended for optimal performance.
 
 ## Authors
-
 Contributors names and contact info
 
 * Jiahe Zheng
-* Sibo Cheng [Email](sibo.cheng@enpc.fr)
+* Prof. Sibo Cheng [Email](sibo.cheng@enpc.fr)
 
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](/LICENSE.md) for details
-
-## Acknowledgments
