@@ -4,9 +4,9 @@ This repository contains the code and data used in the paper *"Predicting Spatio
 
 ## Description
 
-All the codes used are available in the [Codes](\Codes) folder.
+All the codes used are available in the [Codes](/Codes) folder.
 
-All the generated plots are available in the [Plots](\Plots) folder.
+All the generated plots are available in the [Plots](/Plots) folder.
 
 The data used in the paper can be accessed from the [Data folder](https://drive.google.com/drive/folders/1pJ7lZQjbbkevEkDort_xLwYg72Bdgv_c?usp=sharing) (Google Drive).
 
@@ -22,12 +22,12 @@ To run the code, you will need:
 ### Installation
 
 1. Clone or download the repository.
-2. The [Code](/Codes/) and the [Plots](/Plots/) directories will contain the corresponding scripts and output.
+2. The [Codes](/Codes/) and the [Plots](/Plots/) directories will contain the corresponding scripts and output.
 3. Set the `directory` variable to the local path where you store the files:
    ```python
    directory = ''  # Your directory path
    ```
-This path should be updated at the start of each Jupyter notebook in the [Codes](\Codes) folder.
+This path should be updated at the start of each Jupyter notebook in the [Codes](/Codes) folder.
 
 4. The data used in the paper is available in the Data folder. For example, to access a specific data file:
 ```
@@ -42,7 +42,7 @@ These notebooks are designed to be run on Google Colab. Since most of the code i
 
 Contributors names and contact info
 
-* Jiahe Zheng [Email](zheng.jiahe@outlook.com)
+* Jiahe Zheng
 * Sibo Cheng [Email](sibo.cheng@enpc.fr)
 
 ## Version History
