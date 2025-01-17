@@ -45,11 +45,6 @@ Contributors names and contact info
 * Jiahe Zheng
 * Sibo Cheng [Email](sibo.cheng@enpc.fr)
 
-## Version History
-
-* 0.1
-    * Initial Release
-
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License - see the [LICENSE](/LICENSE.md) for details
