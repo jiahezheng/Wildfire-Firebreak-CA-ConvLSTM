@@ -6,9 +6,9 @@ This repository contains the code and data used in the paper *"Predicting Spatio
 
 All the codes used are available in the [Codes](/Codes) folder.
 
-All the generated plots are available in the [Plots](/Plots) folder.
+All the generated plots are available in the [Plots](https://drive.google.com/drive/folders/1Ui5JOhLkaSHTI0y9nNqOZzpb7yz7zsDD?usp=sharing) folder (Google Drive).
 
-The data used in the paper can be accessed from the [Data folder](https://drive.google.com/drive/folders/1pJ7lZQjbbkevEkDort_xLwYg72Bdgv_c?usp=sharing) (Google Drive).
+The data used in the paper can be accessed from the [Data](https://drive.google.com/drive/folders/1pJ7lZQjbbkevEkDort_xLwYg72Bdgv_c?usp=sharing) folder (Google Drive).
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ To run the code, you will need:
 ### Installation
 
 1. Clone or download the repository.
-2. The [Codes](/Codes/) and the [Plots](/Plots/) directories will contain the corresponding scripts and output.
+2. The [Codes](/Codes/) directory contains the corresponding scripts.
 3. Set the `directory` variable to the local path where you store the files:
    ```python
    directory = ''  # Your directory path
