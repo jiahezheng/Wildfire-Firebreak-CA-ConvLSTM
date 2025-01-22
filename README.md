@@ -32,7 +32,7 @@ This path should be updated at the start of each Jupyter notebook in the [Codes]
 ```
 directory + 'Data/training_data/forest_fer_rand_ig_rand_wind_rand_tilt_4_ptbar_ml_state.npy'
 ```
-5. The necessary packages are listed in the [requirement](/requirement.txt/) file and are detailed within each .ipynb notebook. When using Google Colab, these packages will either be automatically imported or installed as needed.
+5. The necessary packages are listed in the [requirements](/requirements.txt/) file and are detailed within each .ipynb notebook. When using Google Colab, these packages will either be automatically imported or installed as needed.
 
 ### Running the Program
 These notebooks are designed to be run on Google Colab. Since most of the code involves deep learning models, using a GPU is highly recommended for optimal performance.
