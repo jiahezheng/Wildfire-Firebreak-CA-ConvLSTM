@@ -24,11 +24,13 @@ To run the code, you will need:
 1. Clone or download the repository.
 2. The [Codes](/Codes/) directory contains the corresponding scripts.
 3. Set the `directory` variable to the local path where you store the files:
+   
    ```python
    directory = ''  # Your directory path
    ```
 This path should be updated at the start of each Jupyter notebook in the [Codes](/Codes) folder.
 4. The data used in the paper is available in the Data folder. For example, to access a specific data file:
+
 ```
 directory + 'Data/training_data/forest_fer_rand_ig_rand_wind_rand_tilt_4_ptbar_ml_state.npy'
 ```
