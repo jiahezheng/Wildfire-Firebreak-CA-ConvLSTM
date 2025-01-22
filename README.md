@@ -28,12 +28,11 @@ To run the code, you will need:
    directory = ''  # Your directory path
    ```
 This path should be updated at the start of each Jupyter notebook in the [Codes](/Codes) folder.
-
 4. The data used in the paper is available in the Data folder. For example, to access a specific data file:
 ```
 directory + 'Data/training_data/forest_fer_rand_ig_rand_wind_rand_tilt_4_ptbar_ml_state.npy'
 ```
-5. The required packages are detailed in each `.ipynb` file. If using Google Colab, they will be automatically imported or installed.
+5. The necessary packages are listed in the [requirement](/requirement.txt/) file and are detailed within each .ipynb notebook. When using Google Colab, these packages will either be automatically imported or installed as needed.
 
 ### Running the Program
 These notebooks are designed to be run on Google Colab. Since most of the code involves deep learning models, using a GPU is highly recommended for optimal performance.
