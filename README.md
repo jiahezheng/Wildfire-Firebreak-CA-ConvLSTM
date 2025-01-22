@@ -28,7 +28,8 @@ To run the code, you will need:
    ```python
    directory = ''  # Your directory path
    ```
-This path should be updated at the start of each Jupyter notebook in the [Codes](/Codes) folder.
+   This path should be updated at the start of each Jupyter notebook in the [Codes](/Codes) folder.
+
 4. The data used in the paper is available in the Data folder. For example, to access a specific data file:
 
 ```
